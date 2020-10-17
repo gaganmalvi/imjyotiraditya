@@ -12,6 +12,6 @@ A passionate developer🎯 from india.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-![Jyotiraditya's github stats](https://github-readme-stats.vercel.app/api?username=imjyotiraditya&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"])
+![Jyotiraditya's github stats](https://github-readme-stats.vercel.app/api?username=imjyotiraditya&show_icons=true&count_private=true&title_color=2e2e2e&include_all_commits=true&hide=["issues"])
 
-![Profile visit badge](https://komarev.com/ghpvc/?username=imjyotiraditya&style=flat-square)
+[![HitCount](http://hits.dwyl.com/imjyotiraditya/imjyotiraditya.svg)](http://hits.dwyl.com/imjyotiraditya/imjyotiraditya)

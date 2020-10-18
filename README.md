@@ -13,4 +13,4 @@ A passionate developer🎯 from india.
 
 ![Jyotiraditya's github stats](https://github-readme-stats.vercel.app/api?username=imjyotiraditya&show_icons=true&count_private=true&title_color=2e2e2e&&icon_color=2e2e2e&hide=issues)
 
-[![HitCount](http://hits.dwyl.com/imjyotiraditya/imjyotiraditya.svg)](http://hits.dwyl.com/imjyotiraditya/imjyotiraditya)
+[![HitCount](http://hits.dwyl.com/imjyotiraditya.svg)](http://hits.dwyl.com/imjyotiraditya)

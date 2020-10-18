@@ -1,16 +1,19 @@
-### Hi there, I'm Jyotiraditya👦,
-A passionate developer🎯 from india.
-- 🌱 I’m currently learning C++, Python and Flutter.
-- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/im_jyotiraditya) or [Twitter](https://twitter.com/im_jyotiraditya)
-- 😄 Pronouns: he/him/his
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jyotiraditya</h1>
+<h3 align="center">A passionate developer🎯 from india.</h3>
 
-**Skills:**  
+![HitCount](https://komarev.com/ghpvc/?username=imjyotiraditya&style=flat-square&color=brightgreen&label=hits)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+- 🌱 I’m currently learning React.
+- 📫 How to reach me **jyotiraditya@aospa.co**
 
-![Jyotiraditya's github stats](https://github-readme-stats.vercel.app/api?username=imjyotiraditya&show_icons=true&count_private=true&title_color=2e2e2e&&icon_color=2e2e2e&hide=issues)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+</p>
 
-[![HitCount](http://hits.dwyl.com/imjyotiraditya.svg)](http://hits.dwyl.com/imjyotiraditya)
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=imjyotiraditya&show_icons=true&count_private=true&title_color=2e2e2e&&icon_color=2e2e2e&hide=issues" alt"imjyotiraditya" />
+</p>

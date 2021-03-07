@@ -2,7 +2,7 @@
 <h3 align="center">Hello there, I'm Jyotiraditya Panda.</h3>
 <p align="center">Amateur developer from Odisha, India. <br></p>
 
-- 📱 Lead Developer at Wave Project, Framework Developer at Paranoid Android. <br>
+- 📱 Lead Developer at <a href="https://github.com/Wave-Project">Wave Project</a>, Framework Developer at <a href="https://github.com/AOSPA">Paranoid Android.</a> <br>
 - 🌱 Learning React. <br>
 - 📫 You can reach me via email at <a href="mailto:jyotiraditya@aospa.co">jyotiraditya@aospa.co</a><br>
 
